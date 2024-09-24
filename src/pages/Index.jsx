@@ -11,7 +11,7 @@ import { Brain, Gamepad2, Cpu, Users } from 'lucide-react';
 const concepts = [
   {
     title: "AI-Driven Personligt Lärande",
-    description: "Använder AI för att anpassa läroplanen efter varje elevs unika behov och inlärningsstil.",
+    description: "Använder AI för att anpassa stödet efter varje elevs unika behov och inlärningsstil.",
     icon: <Brain className="w-12 h-12 text-blue-500" />
   },
   {
@@ -21,7 +21,7 @@ const concepts = [
   },
   {
     title: "Gamifierad Matematik",
-    description: "Förvandlar matematiklektioner till spännande äventyr där elever löser problem för att avancera.",
+    description: "Förvandlar matematiklektioner till spännande äventyr där elever löser problem de själva har ett intresse för.",
     icon: <Gamepad2 className="w-12 h-12 text-green-500" />
   },
   {
