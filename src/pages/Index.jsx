@@ -4,41 +4,40 @@ import Footer from '../components/Footer';
 import ConceptCard from '../components/ConceptCard';
 import PlayfulContentSection from '../components/PlayfulContentSection';
 import InnovativeApproachSection from '../components/InnovativeApproachSection';
-import ProfessionalResultsSection from '../components/ProfessionalResultsSection';
-import { Brain, Laptop, Users, TrendingUp } from 'lucide-react';
+import { Brain, Gamepad2, Cpu, Users } from 'lucide-react';
 
 const concepts = [
   {
-    title: "Personanpassat lärande",
-    description: "Skräddarsydda läroplaner som anpassas efter varje elevs unika behov och inlärningsstil.",
-    icon: <Brain className="w-12 h-12 text-blue-600" />
+    title: "AI-Driven Personligt Lärande",
+    description: "Använder AI för att anpassa läroplanen efter varje elevs unika behov och inlärningsstil.",
+    icon: <Brain className="w-12 h-12 text-blue-500" />
   },
   {
-    title: "Digital kompetens",
-    description: "Integrering av modern teknologi i undervisningen för att förbereda elever för framtidens arbetsmarknad.",
-    icon: <Laptop className="w-12 h-12 text-green-600" />
+    title: "Gamifierad Matematik",
+    description: "Förvandlar matematiklektioner till spännande äventyr där elever löser problem för att avancera.",
+    icon: <Gamepad2 className="w-12 h-12 text-green-500" />
   },
   {
-    title: "Samarbete och kommunikation",
-    description: "Fokus på att utveckla starka samarbets- och kommunikationsfärdigheter genom grupprojekt och presentationer.",
-    icon: <Users className="w-12 h-12 text-purple-600" />
+    title: "Kollaborativ Problemlösning",
+    description: "Uppmuntrar elever att arbeta tillsammans i virtuella rum för att lösa komplexa, verklighetstrogna problem.",
+    icon: <Users className="w-12 h-12 text-purple-500" />
   },
   {
-    title: "Kontinuerlig utvärdering",
-    description: "Regelbunden uppföljning och analys av elevernas framsteg för att säkerställa optimal utveckling.",
-    icon: <TrendingUp className="w-12 h-12 text-red-600" />
+    title: "AI-Assisterad Kreativitet",
+    description: "Använder AI för att hjälpa elever generera idéer och utveckla kreativa projekt inom olika ämnen.",
+    icon: <Cpu className="w-12 h-12 text-red-500" />
   }
 ];
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex flex-col bg-white">
+    <div className="min-h-screen flex flex-col bg-gray-100">
       <Header />
       <main className="flex-grow">
-        <div className="container mx-auto px-4 py-12">
-          <h1 className="text-4xl font-bold text-center mb-6 text-gray-800">Framtidens utbildning: Innovativa metoder för optimal inlärning</h1>
-          <p className="text-xl text-center mb-12 max-w-3xl mx-auto text-gray-600">
-            Utforska våra banbrytande utbildningskoncept som kombinerar modern pedagogik, teknologi och personanpassning för att skapa en effektiv och engagerande lärmiljö.
+        <div className="container mx-auto px-4 py-8">
+          <h1 className="text-4xl font-bold text-center mb-8">Framtidens Lärande: Innovativa Koncept</h1>
+          <p className="text-xl text-center mb-12 max-w-3xl mx-auto">
+            Utforska våra banbrytande koncept som kombinerar barns intressen, nyfikenhet och gamification för att skapa mer engagerande och effektiva lärandemetoder.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {concepts.map((concept, index) => (
@@ -48,7 +47,6 @@ const Index = () => {
         </div>
         <PlayfulContentSection />
         <InnovativeApproachSection />
-        <ProfessionalResultsSection />
       </main>
       <Footer />
     </div>
