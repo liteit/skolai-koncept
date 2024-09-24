@@ -45,8 +45,8 @@ const Index = () => {
             ))}
           </div>
         </div>
-        <ContentSectionA />
-        <ContentSectionB />
+        <InnovativeApproachSection />
+        <PlayfulContentSection />
       </main>
       <Footer />
     </div>
