@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import ConceptCard from '../components/ConceptCard';
-import { Brain, Gamepad2, Robot, Users } from 'lucide-react';
+import { Brain, Gamepad2, Cpu, Users } from 'lucide-react';
 
 const concepts = [
   {
@@ -23,7 +23,7 @@ const concepts = [
   {
     title: "AI-Assisterad Kreativitet",
     description: "Använder AI för att hjälpa elever generera idéer och utveckla kreativa projekt inom olika ämnen.",
-    icon: <Robot className="w-12 h-12 text-red-500" />
+    icon: <Cpu className="w-12 h-12 text-red-500" />
   }
 ];
 
