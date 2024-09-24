@@ -1,1 +1,1 @@
-Skolai-koncept
+SkolAi-koncept
