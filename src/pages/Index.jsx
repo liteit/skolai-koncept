@@ -2,9 +2,10 @@ import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import ConceptCard from '../components/ConceptCard';
+import ContentSectionA from '../components/ContentSectionA';
 import ContentSectionB from '../components/ContentSectionB';
-import InnovativeApproachSection from '../components/ContentSectionA';
 import ContentSectionC from '../components/ContentSectionC';
+import ContentSectionD from '../components/ContentSectionD';
 import { Brain, Gamepad2, Cpu, Users } from 'lucide-react';
 
 const concepts = [
@@ -46,9 +47,10 @@ const Index = () => {
             ))}
           </div>
         </div>
-        <InnovativeApproachSection />
+        <ContentSectionA />
         <ContentSectionB />
         <ContentSectionC />
+        <ContentSectionD />
       </main>
       <Footer />
     </div>
