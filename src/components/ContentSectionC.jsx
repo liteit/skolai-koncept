@@ -15,10 +15,10 @@ const ContentSectionC = () => {
         <div className="md:w-1/2 md:pl-8">
           <h2 className="text-3xl font-bold mb-4 text-blue-600">Alma Assistenten</h2>
           <p className="text-lg mb-6 text-gray-700">
-            Konceptet hjälper läraren att skapa nya engagerande övningar mha AI. Ett förenklat interface bidrar till att fånga elevens intresse.
+            Assistenten hjälper i första hand läraren att skapa nya engagerande övningar mha AI, som är kopplat till elevens intressen. Med ett anpassat AI interface finn fler möjligheter att skapa ett verktyg som blir både praktiskt och effektivt.
           </p>
           <a 
-            href="https://push-to-talk-text.vercel.app/" 
+            href="https://alma-assistent.vercel.app/" 
             className="inline-flex items-center px-6 py-3 bg-blue-500 text-white font-semibold rounded-full hover:bg-blue-600 transition duration-300"
           >
             Demo

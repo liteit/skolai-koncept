@@ -31,4 +31,4 @@ const ContentSectionA = () => {
   );
 };
 
-export default ContentSectionASectionA;
+export default ContentSectionA;
