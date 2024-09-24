@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import ConceptCard from '../components/ConceptCard';
+import PlayfulContentSection from '../components/PlayfulContentSection';
 import { Brain, Gamepad2, Cpu, Users } from 'lucide-react';
 
 const concepts = [
@@ -31,16 +32,19 @@ const Index = () => {
   return (
     <div className="min-h-screen flex flex-col bg-gray-100">
       <Header />
-      <main className="flex-grow container mx-auto px-4 py-8">
-        <h1 className="text-4xl font-bold text-center mb-8">Framtidens Lärande: Innovativa Koncept</h1>
-        <p className="text-xl text-center mb-12 max-w-3xl mx-auto">
-          Utforska våra banbrytande koncept som kombinerar barns intressen, nyfikenhet och gamification för att skapa mer engagerande och effektiva lärandemetoder.
-        </p>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-          {concepts.map((concept, index) => (
-            <ConceptCard key={index} {...concept} />
-          ))}
+      <main className="flex-grow">
+        <div className="container mx-auto px-4 py-8">
+          <h1 className="text-4xl font-bold text-center mb-8">Framtidens Lärande: Innovativa Koncept</h1>
+          <p className="text-xl text-center mb-12 max-w-3xl mx-auto">
+            Utforska våra banbrytande koncept som kombinerar barns intressen, nyfikenhet och gamification för att skapa mer engagerande och effektiva lärandemetoder.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            {concepts.map((concept, index) => (
+              <ConceptCard key={index} {...concept} />
+            ))}
+          </div>
         </div>
+        <PlayfulContentSection />
       </main>
       <Footer />
     </div>
