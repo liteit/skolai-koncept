@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
 
-const PlayfulContentSection = () => {
+const ContentSectionB = () => {
   return (
     <section className="py-16 bg-gradient-to-r from-purple-100 to-pink-100">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
