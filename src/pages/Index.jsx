@@ -3,6 +3,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import ConceptCard from '../components/ConceptCard';
 import PlayfulContentSection from '../components/PlayfulContentSection';
+import InnovativeApproachSection from '../components/InnovativeApproachSection';
 import { Brain, Gamepad2, Cpu, Users } from 'lucide-react';
 
 const concepts = [
@@ -45,6 +46,7 @@ const Index = () => {
           </div>
         </div>
         <PlayfulContentSection />
+        <InnovativeApproachSection />
       </main>
       <Footer />
     </div>
