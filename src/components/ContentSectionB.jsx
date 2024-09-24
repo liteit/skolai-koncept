@@ -31,4 +31,4 @@ const ContentSectionB = () => {
   );
 };
 
-export default PlayfulContentSection;
+export default ContentSectionB;

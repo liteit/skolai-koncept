@@ -31,4 +31,4 @@ const ContentSectionA = () => {
   );
 };
 
-export default InnovativeApproachSection;
+export default ContentSectionA;

@@ -13,10 +13,9 @@ const ContentSectionC = () => {
           />
         </div>
         <div className="md:w-1/2 md:pl-8">
-          <h2 className="text-3xl font-bold mb-4 text-blue-600">Skapa övningar</h2>
+          <h2 className="text-3xl font-bold mb-4 text-blue-600">Alma Assistenten</h2>
           <p className="text-lg mb-6 text-gray-700">
-            Konceptet låter eleven prata och läsa vad som pratas. Sedan kan en bild skapas, det uppmuntrar till 
-            att först läsa för att sedan skapa. Det blir roligt att läsa, för bilden är spännande.
+            Konceptet hjälper läraren att skapa nya engagerande övningar mha AI. Ett frönklat interface bidrar till att fånga elevens intresse.
           </p>
           <a 
             href="https://push-to-talk-text.vercel.app/" 
@@ -31,4 +30,4 @@ const ContentSectionC = () => {
   );
 };
 
-export default InnovativeApproachSection;
+export default ContentSectionCSectionC;
