@@ -12,6 +12,13 @@ const concepts = [
     description: "Använder AI för att anpassa läroplanen efter varje elevs unika behov och inlärningsstil.",
     icon: <Brain className="w-12 h-12 text-blue-500" />
   },
+
+  {
+    title: "AI-Assisterad Kreativitet",
+    description: "Använder AI för att hjälpa elever generera idéer och utveckla kreativa projekt inom olika ämnen.",
+    icon: <Cpu className="w-12 h-12 text-red-500" />
+  },
+
   {
     title: "Gamifierad Matematik",
     description: "Förvandlar matematiklektioner till spännande äventyr där elever löser problem för att avancera.",
@@ -19,10 +26,11 @@ const concepts = [
   },
 
   {
-    title: "AI-Assisterad Kreativitet",
-    description: "Använder AI för att hjälpa elever generera idéer och utveckla kreativa projekt inom olika ämnen.",
-    icon: <Cpu className="w-12 h-12 text-red-500" />
+    title: "Kollaborativ Problemlösning",
+    description: "Uppmuntrar elever att arbeta tillsammans i virtuella rum för att lösa komplexa, verklighetstrogna problem.",
+    icon: <Users className="w-12 h-12 text-purple-500" />
   }
+
 ];
 
 const Index = () => {
@@ -41,8 +49,9 @@ const Index = () => {
             ))}
           </div>
         </div>
-        <InnovativeApproachSection />
-        <PlayfulContentSection />
+        <ContentSectionA />
+        <ContentSectionB />
+        <ContentSectionC />
       </main>
       <Footer />
     </div>

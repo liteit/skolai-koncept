@@ -7,13 +7,13 @@ const InnovativeApproachSection = () => {
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-8 md:mb-0">
           <img 
-            src="cat_eats_fish_small.jpeg" 
-            alt="Prata, läs och skapa" 
+            src="alma_small.jpeg" 
+            alt="Skapa övningar" 
             className="rounded-lg shadow-xl mx-auto object-cover"
           />
         </div>
         <div className="md:w-1/2 md:pl-8">
-          <h2 className="text-3xl font-bold mb-4 text-blue-600">Prata, Läs och Skapa</h2>
+          <h2 className="text-3xl font-bold mb-4 text-blue-600">Skapa övningar</h2>
           <p className="text-lg mb-6 text-gray-700">
             Konceptet låter eleven prata och läsa vad som pratas. Sedan kan en bild skapas, det uppmuntrar till 
             att först läsa för att sedan skapa. Det blir roligt att läsa, för bilden är spännande.
