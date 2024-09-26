@@ -15,8 +15,8 @@ const ContentSectionA = () => {
         <div className="md:w-1/2 md:pl-8">
           <h2 className="text-3xl font-bold mb-4 text-blue-600">Prata, Läs och Skapa</h2>
           <p className="text-lg mb-6 text-gray-700">
-            Konceptet låter eleven prata och kunna läsa samtidigt. Därefter har eleven möjlighet att skapa en AI genererad bild baserad på innehållet. 
-         Övningen uppmuntrar till att först läsa det man diktar för att sedan skapa. Det blir roligt att läsa, för bilder är spännande.
+          Övningen uppmuntrar till tala och att läsa det man talar för att sedan skapa en spännande bild. 
+          Potentiell utveckling: Eleven ser ord för ord istället för hela meningen.
           </p>
           <a 
             href="https://push-to-talk-text.vercel.app/" 
