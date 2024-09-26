@@ -6,6 +6,7 @@ import ContentSectionA from '../components/ContentSectionA';
 import ContentSectionB from '../components/ContentSectionB';
 import ContentSectionC from '../components/ContentSectionC';
 import ContentSectionD from '../components/ContentSectionD';
+import ContentSectionE from '../components/ContentSectionE';
 import { Brain, Gamepad2, Cpu, Users } from 'lucide-react';
 
 const concepts = [
@@ -37,9 +38,9 @@ const Index = () => {
       <Header />
       <main className="flex-grow">
         <div className="container mx-auto px-4 py-8">
-          <h1 className="text-4xl font-bold text-center mb-8">Framtidens Lärande: Innovativa Koncept</h1>
+          <h1 className="text-4xl font-bold text-center mb-8">Innovativa koncept för framtidens lärande</h1>
           <p className="text-xl text-center mb-12 max-w-3xl mx-auto">
-            Utforska våra nya koncept som kombinerar barns intressen, nyfikenhet och gamification för att skapa mer engagerande och effektiva lärandemetoder.
+            Vi utforskar olika koncept som kombinerar barns intressen och nyfikenhet för att skapa engagerande lärandemetoder.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {concepts.map((concept, index) => (
@@ -51,6 +52,7 @@ const Index = () => {
         <ContentSectionB />
         <ContentSectionC />
         <ContentSectionD />
+        <ContentSectionE />
       </main>
       <Footer />
     </div>
