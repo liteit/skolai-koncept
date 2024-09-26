@@ -15,7 +15,11 @@ const ContentSectionC = () => {
         <div className="md:w-1/2 md:pl-8">
           <h2 className="text-3xl font-bold mb-4 text-blue-600">Alma Assistenten</h2>
           <p className="text-lg mb-6 text-gray-700">
-            Assistenten hjälper i första hand läraren att skapa nya engagerande övningar mha AI, som är kopplat till elevens intressen. Med ett anpassat AI interface finn fler möjligheter att skapa ett verktyg som blir både praktiskt och effektivt.
+            Assistenten hjälper i första hand läraren att skapa nya engagerande övningar som är kopplat till elevens intresse. 
+            Med ett förenklat AI interface får pedagogen ett praktiskt och effektivt verktyg för mängdträning. 
+            Assistenten är bra på uppgifter, framförall text. 
+            Potentiell utveckling:
+            Anpassa bildmaterialet som beskriver uppgiften, nu blir AI genererade bilder generiska och det tar lite för lång tid.   
           </p>
           <a 
             href="https://alma-assistent.vercel.app/" 
