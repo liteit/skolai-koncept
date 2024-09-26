@@ -10,23 +10,23 @@ import { Brain, Gamepad2, Cpu, Users } from 'lucide-react';
 
 const concepts = [
   {
-    title: "AI-Driven Personligt Lärande",
-    description: "Använder AI för att anpassa stödet efter varje elevs unika behov och inlärningsstil.",
+    title: "Mer personligt lärande med AI",
+    description: "Vi anpassar stödet efter varje elevs unika behov och inlärningsstil.",
     icon: <Brain className="w-12 h-12 text-blue-500" />
   },
   {
     title: "AI-Assisterad Kreativitet",
-    description: "Använder AI för att hjälpa elever generera idéer och utveckla kreativa projekt inom olika ämnen.",
+    description: "Vi hjälper elever generera idéer och utveckla kreativiteten inom olika ämnen.",
     icon: <Cpu className="w-12 h-12 text-red-500" />
   },
   {
-    title: "Gamifierad Matematik",
-    description: "Förvandlar matematiklektioner till spännande äventyr där elever löser problem de själva har ett intresse för.",
+    title: "Gamification",
+    description: "Förvandlar övningar till spännande äventyr där elever löser problem de har intresse för.",
     icon: <Gamepad2 className="w-12 h-12 text-green-500" />
   },
   {
-    title: "Kollaborativ Problemlösning",
-    description: "Uppmuntrar elever att arbeta tillsammans i virtuella rum för att lösa komplexa, verklighetstrogna problem.",
+    title: "Hybridträning med digitalt och analogt",
+    description: "Vi tar hjälp av senaste tekniken för att skapa så engagerande övningar som möjlig, både digitalt och enalogt.",
     icon: <Users className="w-12 h-12 text-purple-500" />
   }
 ];
