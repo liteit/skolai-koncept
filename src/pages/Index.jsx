@@ -7,21 +7,22 @@ import ContentSectionB from '../components/ContentSectionB';
 import ContentSectionC from '../components/ContentSectionC';
 import ContentSectionD from '../components/ContentSectionD';
 import ContentSectionE from '../components/ContentSectionE';
+import ContentSectionF from '../components/ContentSectionF';
 import { Brain, Gamepad2, Cpu, Users } from 'lucide-react';
 
 const concepts = [
   {
-    title: "Mer personligt lärande med AI",
+    title: "Mer personligt lärande",
     description: "Vi anpassar stödet efter varje elevs unika behov och inlärningsstil.",
     icon: <Brain className="w-12 h-12 text-blue-500" />
   },
   {
-    title: "AI-Assisterad Kreativitet",
+    title: "Assisterad Kreativitet",
     description: "Vi hjälper elever generera idéer och utveckla kreativiteten inom olika ämnen.",
     icon: <Cpu className="w-12 h-12 text-red-500" />
   },
   {
-    title: "Gamification",
+    title: "Lek och Lär",
     description: "Förvandlar övningar till spännande äventyr där elever löser problem de har intresse för.",
     icon: <Gamepad2 className="w-12 h-12 text-green-500" />
   },
@@ -53,6 +54,7 @@ const Index = () => {
         <ContentSectionC />
         <ContentSectionD />
         <ContentSectionE />
+        <ContentSectionF />
       </main>
       <Footer />
     </div>
