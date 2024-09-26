@@ -49,12 +49,13 @@ const Index = () => {
             ))}
           </div>
         </div>
+        <ContentSectionF />
         <ContentSectionA />
-        <ContentSectionB />
+        <ContentSectionB />  
+        <ContentSectionE />    
         <ContentSectionC />
         <ContentSectionD />
-        <ContentSectionE />
-        <ContentSectionF />
+      
       </main>
       <Footer />
     </div>

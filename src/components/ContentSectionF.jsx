@@ -8,8 +8,9 @@ const ContentSectionF = () => {
         <div className="md:w-1/2 mb-8 md:mb-0">
           <h2 className="text-3xl font-bold mb-4 text-purple-600">Skapa Historian</h2>
           <p className="text-lg mb-6 text-gray-700">
-          Exemplet skapar en histora där barnet först får träna på att skriva in ord, sedan göra val och läsa. 
-          Potentiell utveckling: Bilder och mer ordträning    
+          Exemplet skapar en histora där barnet först får träna på att skriva in ord, sedan göra val och läsa det hen har skapat. 
+          Begränsning: Vi kommer tweaka prompten för korta historier. 
+          Potentiell utveckling: Bilder och mer ordträning.     
             
           </p>
           <a 
