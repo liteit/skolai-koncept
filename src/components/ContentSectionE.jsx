@@ -15,9 +15,9 @@ const ContentSectionC = () => {
         <div className="md:w-1/2 md:pl-8">
           <h2 className="text-3xl font-bold mb-4 text-blue-600">Bildmemory</h2>
           <p className="text-lg mb-6 text-gray-700">
-          Exemplet genererar ett bildmemory baserat på barns intresse. 
-          Exemplet är experiementellt, just nu är dynamisk bildgenerering lite för resurs och tidskrävande. 
-          Potentiell utveckling: -  Bilder kopplas med ord och kan läsas upp. - En katalog av bilder skapas på förhand, baserat på intresse.  
+          Exemplet genererar ett bild-memory baserat på barns intresse. 
+          Begränsning: Dynamisk bildgenerering är för tidskrävande, men bilder kan skapas på förhand.  
+          Potentiell utveckling: -  Bilder kopplas med ord och kan läsas upp.  
           </p>
           <a 
             href="https://whimsical-memory-mosaic.vercel.app/" 
