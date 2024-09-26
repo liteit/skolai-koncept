@@ -8,7 +8,7 @@ const ContentSectionC = () => {
         <div className="md:w-1/2 mb-8 md:mb-0">
           <img 
             src="alma_small.jpeg" 
-            alt="Skapa övningar" 
+            alt="alma small" 
             className="rounded-lg shadow-xl mx-auto object-cover"
           />
         </div>

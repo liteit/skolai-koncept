@@ -22,7 +22,7 @@ const ContentSectionE = () => {
         <div className="md:w-1/2">
           <img 
             src="memory_small.jpeg" 
-            alt="Glada barn i skolan" 
+            alt="memory small" 
             className="rounded-lg shadow-xl mx-auto object-cover"
           />
         </div>

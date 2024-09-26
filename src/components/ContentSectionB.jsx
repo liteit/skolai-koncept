@@ -28,7 +28,7 @@ const ContentSectionB = () => {
         <div className="md:w-1/2">
           <img 
             src="memory_ord_small.jpeg" 
-            alt="Glada barn i skolan" 
+            alt="memory ord" 
             className="rounded-lg shadow-xl mx-auto object-cover"
           />
         </div>

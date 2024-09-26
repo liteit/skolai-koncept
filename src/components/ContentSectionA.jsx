@@ -8,7 +8,7 @@ const ContentSectionA = () => {
         <div className="md:w-1/2 mb-8 md:mb-0">
           <img 
             src="cat_eats_fish_small.jpeg" 
-            alt="Prata, läs och skapa" 
+            alt="cat eats fish" 
             className="rounded-lg shadow-xl mx-auto object-cover"
           />
         </div>
