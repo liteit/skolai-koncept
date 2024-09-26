@@ -15,7 +15,7 @@ const ContentSectionC = () => {
         <div className="md:w-1/2 md:pl-8">
           <h2 className="text-3xl font-bold mb-4 text-blue-600">Bildmemory</h2>
           <p className="text-lg mb-6 text-gray-700">
-          Exemplet genererar ett bild-memory baserat på barns intresse. 
+          Exemplet genererar ett bild-memory baserat på elevens intresse. 
           Begränsning: Dynamisk bildgenerering är tidskrävande, men bilder kan genereras i batch på förhand.  
           Potentiell utveckling: -  Bilder kopplas med ord och kan läsas upp.  
           </p>

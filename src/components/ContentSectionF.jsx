@@ -6,11 +6,11 @@ const ContentSectionF = () => {
     <section className="py-16 bg-gradient-to-r from-purple-100 to-pink-100">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-8 md:mb-0">
-          <h2 className="text-3xl font-bold mb-4 text-purple-600">Skapa Historian</h2>
+          <h2 className="text-3xl font-bold mb-4 text-purple-600">Min Historia</h2>
           <p className="text-lg mb-6 text-gray-700">
-          Exemplet skapar en histora där barnet först får träna på att skriva in ord, sedan göra val och läsa det hen har skapat. 
-          Begränsning: Vi kommer tweaka prompten för korta historier. 
-          Potentiell utveckling: Bilder och mer ordträning.     
+          Exemplet skapar elevens histora där barnet först får träna på att skriva in ord, sedan göra val och sedan läsa det hen har skapat. 
+          Begränsning: Vi kommer tweaka prompten för korta historier så det blir ett avslut.  
+          Potentiell utveckling:  - Bilder och mer ordträning. - Läsa upp historien     
             
           </p>
           <a 

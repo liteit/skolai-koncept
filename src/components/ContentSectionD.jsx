@@ -6,15 +6,16 @@ const ContentSectionE = () => {
     <section className="py-16 bg-gradient-to-r from-purple-100 to-pink-100">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-8 md:mb-0">
-          <h2 className="text-3xl font-bold mb-4 text-purple-600">Bildstödsgenerering</h2>
+          <h2 className="text-3xl font-bold mb-4 text-purple-600">Bildstöd</h2>
           <p className="text-lg mb-6 text-gray-700">
-            Bildgenerator tar ett uttryck i stil med "Pojke Spelar Piano" 4 bilder skapas.
-            Stora bilden beskriver vad som sker och tre mindre kort som beskriver en pojke, verbet spelar samt ett piano. 
-            Begränsning: Dynamisk bildgenerering är för tillfället tidskrävande,  generering på förhand är ett alternativ. 
+            Bildstödsgenerator tar ett uttryck i stil med "Pojke Spelar Piano" och 4 bilder skapas.
+            Stor bild beskriver hela scenen och tre mindre kort beskriver en pojke, verbet spelar samt ett piano. 
+            Begränsning: Dynamisk bildgenerering är för tillfället tidskrävande, generering på förhand är ett alternativ. 
             Potentiell utveckling:
-            - Lägg till text på korten som skrivs ut. 
-            - Skriv ut mallen för att skapa meningen. 
-            - Färgkodning för verben är möjligt.    
+            - Skriva ut för att klippa korten.  
+            - Lägga till text på korten
+            - Skriva ut bakgrundsmallen för att skapa meningen. 
+            - Färgkodning för verben eller substantiv och mera    
           </p>
           <a 
             href="https://simple-illustration-generator.vercel.app/" 
