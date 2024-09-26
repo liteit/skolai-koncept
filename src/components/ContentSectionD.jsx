@@ -8,7 +8,13 @@ const ContentSectionE = () => {
         <div className="md:w-1/2 mb-8 md:mb-0">
           <h2 className="text-3xl font-bold mb-4 text-purple-600">Bildstödsgenerering</h2>
           <p className="text-lg mb-6 text-gray-700">
-            Bildgenerator tar ett uttryck i stil med "Pojke Spelar Piano" 4 bilder skapas, en som beskriver vad som sker och tre mindre kort som besktiver en pojke, verbet spelar samt ett piano. Det är möjligt att lägga text på korten som skrivs ut. Korten lägger sedan eleven på mallen för att skapa meningen. Färgkodning för kort med verb är möjligt.    
+            Bildgenerator tar ett uttryck i stil med "Pojke Spelar Piano" 4 bilder skapas.
+            Stora bilden beskriver vad som sker och tre mindre kort som beskriver en pojke, verbet spelar samt ett piano. 
+            Begränsning: Dynamisk bildgenerering är för tillfället för tidskrävande, men generering på förhand är ett alternativ. 
+            Potentiell utveckling:
+            - Lägg till text på korten som skrivs ut. 
+            - Skriv ut mallen för att skapa meningen. 
+            - Färgkodning för kort med verb är möjligt.    
           </p>
           <a 
             href="https://simple-illustration-generator.vercel.app/" 
