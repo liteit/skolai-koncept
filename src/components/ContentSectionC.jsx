@@ -17,9 +17,9 @@ const ContentSectionC = () => {
           <p className="text-lg mb-6 text-gray-700">
             Assistenten hjälper i första hand läraren att skapa nya engagerande övningar som är kopplat till elevens intresse. 
             Med ett förenklat AI interface får pedagogen ett praktiskt och effektivt verktyg för mängdträning. 
-            Assistenten är bra på uppgifter, framförall text. 
+            Assistenten är rean bra på att skapa uppgifter, framförallt inom text. 
             Potentiell utveckling:
-            Anpassa bildmaterialet som beskriver uppgiften, nu blir AI genererade bilder generiska och det tar lite för lång tid.   
+            Anpassa bildmaterialet och illustrationer så de beskriver uppgiften till 100%   
           </p>
           <a 
             href="https://alma-assistent.vercel.app/" 

@@ -14,7 +14,7 @@ const ContentSectionB = () => {
             Potentiell utveckling:
             - Visa bild på intresset när eleven grattas
             - Ta tid och tävla mot sig själv
-            - Läsa upp orden under spelets gågn eller efteråt   
+            - Läsa upp orden under spelets gång
           
           </p>
           <a 
