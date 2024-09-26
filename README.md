@@ -1,1 +1,1 @@
-SkolAi-koncept
+Skol Ai

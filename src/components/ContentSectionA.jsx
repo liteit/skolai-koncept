@@ -15,7 +15,7 @@ const ContentSectionA = () => {
         <div className="md:w-1/2 md:pl-8">
           <h2 className="text-3xl font-bold mb-4 text-blue-600">Prata, Läs och Skapa</h2>
           <p className="text-lg mb-6 text-gray-700">
-          Övningen uppmuntrar till tala och att läsa det man talar för att sedan skapa en spännande bild. 
+          Övningen uppmuntrar till tala och att läsa det man talar för att sedan skapa den spännande bilden. 
           Potentiell utveckling: Eleven ser ord för ord istället för hela meningen.
           </p>
           <a 
