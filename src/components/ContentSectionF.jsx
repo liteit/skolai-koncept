@@ -22,8 +22,8 @@ const ContentSectionF = () => {
         </div>
         <div className="md:w-1/2">
           <img 
-            src="history_small.jpeg" 
-            alt="history small" 
+            src="story_generator_small.jpeg" 
+            alt="story generator small" 
             className="rounded-lg shadow-xl mx-auto object-cover"
           />
         </div>
