@@ -28,7 +28,7 @@ const concepts = [
   },
   {
     title: "Hybridträning med digitalt och analogt",
-    description: "Vi tar hjälp av senaste tekniken för att skapa så engagerande övningar som möjlig, både digitalt och enalogt.",
+    description: "Vi tar hjälp av senaste tekniken, för att skapa så engagerande övningar som möjlig, både digitalt och enalogt.",
     icon: <Users className="w-12 h-12 text-purple-500" />
   }
 ];
