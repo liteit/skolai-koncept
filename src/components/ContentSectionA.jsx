@@ -22,6 +22,8 @@ const ContentSectionA = () => {
           </p>
           <a 
             href="https://push-to-talk-text.vercel.app/" 
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-blue-500 text-white font-semibold rounded-full hover:bg-blue-600 transition duration-300"
           >
             {t('demo')}

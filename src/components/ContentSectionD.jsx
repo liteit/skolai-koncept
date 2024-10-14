@@ -15,6 +15,8 @@ const ContentSectionD = () => {
           </p>
           <a 
             href="https://simple-illustration-generator.vercel.app/" 
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-purple-500 text-white font-semibold rounded-full hover:bg-purple-600 transition duration-300"
           >
             {t('demo')}
