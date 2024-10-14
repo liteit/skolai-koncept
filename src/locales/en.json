@@ -30,5 +30,12 @@
   "imageMemoryAlt": "Image memory",
   "myStory": "My Story",
   "myStoryDesc": "The example creates a story where the student first gets to practice writing words, then read choices, and then read what they have created. Limitation: We will tweak the prompt for short stories so there is an ending. Potential development: - Images and more word training. - Read the story aloud",
-  "storyGeneratorAlt": "Story generator"
+  "storyGeneratorAlt": "Story generator",
+  "aboutSkolAI": "About SkolAI",
+  "skolAIDescription": "We strive to revolutionize education through innovative, engaging, and personalized learning methods.",
+  "contactUs": "Contact Us",
+  "email": "Email",
+  "phone": "Phone",
+  "followUs": "Follow Us",
+  "copyright": "© {{year}} SkolAi. All rights reserved."
 }

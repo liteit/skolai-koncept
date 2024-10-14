@@ -30,5 +30,12 @@
   "imageMemoryAlt": "Afbeelding memory",
   "myStory": "Mijn Verhaal",
   "myStoryDesc": "Het voorbeeld maakt een verhaal waar de leerling eerst woorden leert schrijven, dan keuzes leest en vervolgens leest wat hij/zij heeft gemaakt. Beperking: We zullen de prompt voor korte verhalen aanpassen zodat er een einde is. Potentiële ontwikkeling: - Afbeeldingen en meer woordtraining. - Het verhaal voorlezen",
-  "storyGeneratorAlt": "Verhaalgenerator"
+  "storyGeneratorAlt": "Verhaalgenerator",
+  "aboutSkolAI": "Over SkolAI",
+  "skolAIDescription": "We streven ernaar om onderwijs te revolutioneren door middel van innovatieve, boeiende en gepersonaliseerde leermethoden.",
+  "contactUs": "Neem contact op",
+  "email": "E-mail",
+  "phone": "Telefoon",
+  "followUs": "Volg ons",
+  "copyright": "© {{year}} SkolAi. Alle rechten voorbehouden."
 }

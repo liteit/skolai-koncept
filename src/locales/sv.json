@@ -30,5 +30,12 @@
   "imageMemoryAlt": "Bildmemory",
   "myStory": "Min Historia",
   "myStoryDesc": "Exemplet skapar en historia där eleven först får träna på att skriva in ord, sedan läsa val och därefter läsa det hen har skapat. Begränsning: Vi kommer tweaka prompten för korta historier så det blir ett avslut. Potentiell utveckling: - Bilder och mer ordträning. - Läsa upp historien",
-  "storyGeneratorAlt": "Historiegenerator"
+  "storyGeneratorAlt": "Historiegenerator",
+  "aboutSkolAI": "Om SkolAI",
+  "skolAIDescription": "Vi strävar efter att revolutionera utbildning genom innovativa, engagerande och personanpassade lärandemetoder.",
+  "contactUs": "Kontakta oss",
+  "email": "E-post",
+  "phone": "Telefon",
+  "followUs": "Följ oss",
+  "copyright": "© {{year}} SkolAi. Alla rättigheter förbehållna."
 }
