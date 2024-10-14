@@ -1,5 +1,15 @@
 {
   "home": "Home",
   "about": "About",
-  "contact": "Contact"
+  "contact": "Contact",
+  "mainTitle": "Innovative concepts for future learning",
+  "mainDescription": "We explore various concepts that combine children's interests and curiosity to create engaging learning methods.",
+  "personalLearning": "More personal learning",
+  "personalLearningDesc": "We adapt support to each student's unique needs and learning style.",
+  "assistedCreativity": "Assisted Creativity",
+  "assistedCreativityDesc": "We help students generate ideas and develop creativity in various subjects.",
+  "playAndLearn": "Play and Learn",
+  "playAndLearnDesc": "Transforms exercises into exciting adventures where students solve problems they are interested in.",
+  "hybridTraining": "Hybrid training with digital and analog",
+  "hybridTrainingDesc": "We use the latest technology to create engaging exercises, both digitally and analogously."
 }

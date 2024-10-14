@@ -1,5 +1,15 @@
 {
   "home": "Hem",
   "about": "Om oss",
-  "contact": "Kontakt"
+  "contact": "Kontakt",
+  "mainTitle": "Innovativa koncept för framtidens lärande",
+  "mainDescription": "Vi utforskar olika koncept som kombinerar barns intressen och nyfikenhet för att skapa engagerande lärandemetoder.",
+  "personalLearning": "Mer personligt lärande",
+  "personalLearningDesc": "Vi anpassar stödet efter varje elevs unika behov och inlärningsstil.",
+  "assistedCreativity": "Assisterad Kreativitet",
+  "assistedCreativityDesc": "Vi hjälper elever generera idéer och utveckla kreativiteten inom olika ämnen.",
+  "playAndLearn": "Lek och Lär",
+  "playAndLearnDesc": "Förvandlar övningar till spännande äventyr där elever löser problem de har intresse för.",
+  "hybridTraining": "Hybridträning med digitalt och analogt",
+  "hybridTrainingDesc": "Vi tar hjälp av senaste tekniken för att skapa så engagerande övningar som möjligt, både digitalt och analogt."
 }

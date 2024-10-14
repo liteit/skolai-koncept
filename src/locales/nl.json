@@ -1,5 +1,15 @@
 {
   "home": "Home",
   "about": "Over ons",
-  "contact": "Contact"
+  "contact": "Contact",
+  "mainTitle": "Innovatieve concepten voor toekomstig leren",
+  "mainDescription": "We verkennen verschillende concepten die de interesses en nieuwsgierigheid van kinderen combineren om boeiende leermethoden te creëren.",
+  "personalLearning": "Persoonlijker leren",
+  "personalLearningDesc": "We passen ondersteuning aan op de unieke behoeften en leerstijl van elke leerling.",
+  "assistedCreativity": "Ondersteunde Creativiteit",
+  "assistedCreativityDesc": "We helpen leerlingen ideeën te genereren en creativiteit te ontwikkelen in verschillende vakken.",
+  "playAndLearn": "Spelen en Leren",
+  "playAndLearnDesc": "Verandert oefeningen in spannende avonturen waarbij leerlingen problemen oplossen waar ze interesse in hebben.",
+  "hybridTraining": "Hybride training met digitaal en analoog",
+  "hybridTrainingDesc": "We gebruiken de nieuwste technologie om boeiende oefeningen te creëren, zowel digitaal als analoog."
 }
