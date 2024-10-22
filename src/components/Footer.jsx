@@ -14,15 +14,14 @@ const Footer = () => {
           </div>
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
             <h3 className="text-lg font-semibold mb-2">{t('contactUs')}</h3>
-            <p className="text-sm">{t('email')}: info@skolai.se</p>
+            <p className="text-sm">{t('email')}: info@admeliora.ai</p>
             <p className="text-sm">{t('phone')}: 08-123 45 67</p>
           </div>
           <div className="w-full md:w-1/3">
             <h3 className="text-lg font-semibold mb-2">{t('followUs')}</h3>
             <div className="flex space-x-4">
-              <a href="#" className="text-white hover:text-gray-300">Facebook</a>
-              <a href="#" className="text-white hover:text-gray-300">Twitter</a>
-              <a href="#" className="text-white hover:text-gray-300">LinkedIn</a>
+            <a href="https://www.admeliora.ai" className="text-white hover:text-gray-300">Homepage</a>
+            <a href="https://www.linkedin.com/company/aiadmeliora" className="text-white hover:text-gray-300">LinkedIn</a>
             </div>
           </div>
         </div>

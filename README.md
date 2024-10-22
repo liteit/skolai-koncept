@@ -1,1 +1,1 @@
-Skol Ai
+SkolAI by Admeliora
