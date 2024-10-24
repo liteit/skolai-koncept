@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center">
           <Lightbulb className="w-8 h-8 text-yellow-500 mr-2" />
-          <span className="text-xl font-bold">SkolAi </span>
+          <span className="text-xl font-bold">SkolAI </span>
         </div>
         <nav className="flex items-center">
           <ul className="flex space-x-4 mr-4">

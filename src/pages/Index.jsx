@@ -9,7 +9,7 @@ import ContentSectionC from '../components/ContentSectionC';
 import ContentSectionD from '../components/ContentSectionD';
 import ContentSectionE from '../components/ContentSectionE';
 import ContentSectionF from '../components/ContentSectionF';
-import ContentSectionF from '../components/ContentSectionG';
+import ContentSectionG from '../components/ContentSectionG';
 
 import { Brain, Gamepad2, Cpu, Users } from 'lucide-react';
 
