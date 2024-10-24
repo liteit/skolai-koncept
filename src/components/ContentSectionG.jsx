@@ -10,7 +10,7 @@ const ContentSectionG = () => {
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-8 md:mb-0">
           <img 
-            src="trafik_small.jpeg" 
+            src="trafik_small.png" 
             alt={t('vägmärken')} 
             className="rounded-lg shadow-xl mx-auto object-cover"
           />
