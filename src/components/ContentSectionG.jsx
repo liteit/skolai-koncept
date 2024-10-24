@@ -10,7 +10,7 @@ const ContentSectionG = () => {
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-8 md:mb-0">
           <img 
-            src="trafikskyltar_small.jpeg" 
+            src="trafik_small.jpeg" 
             alt={t('trafikskyltar')} 
             className="rounded-lg shadow-xl mx-auto object-cover"
           />
@@ -21,7 +21,7 @@ const ContentSectionG = () => {
             {t('trafikSkyltarDesc')}
           </p>
           <a 
-            href="https://whimsical-memory-mosaic.vercel.app/" 
+            href="https://playful-signs-tales.vercel.app/" 
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-blue-500 text-white font-semibold rounded-full hover:bg-blue-600 transition duration-300"
