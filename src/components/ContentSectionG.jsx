@@ -11,7 +11,7 @@ const ContentSectionG = () => {
         <div className="md:w-1/2 mb-8 md:mb-0">
           <img 
             src="trafik_small.jpeg" 
-            alt={t('trafikskyltar')} 
+            alt={t('vägmärken')} 
             className="rounded-lg shadow-xl mx-auto object-cover"
           />
         </div>
